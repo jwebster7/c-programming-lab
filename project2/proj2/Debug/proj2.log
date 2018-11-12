@@ -1,0 +1,9 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(387,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (proj2.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Project2.c
+c:\users\josep\desktop\spring 2018\cis-308\project2\websterj_project2\proj2\project2.c(31): warning C4047: 'function': 'int' differs in levels of indirection from 'void *'
+c:\users\josep\desktop\spring 2018\cis-308\project2\websterj_project2\proj2\project2.c(31): warning C4024: 'NewNode': different types for formal and actual parameter 1
+  io.c
+  bst.c
+c:\users\josep\desktop\spring 2018\cis-308\project2\websterj_project2\proj2\bst.c(44): warning C4047: '==': 'int' differs in levels of indirection from 'void *'
+  Generating Code...
+  proj2.vcxproj -> C:\Users\josep\Desktop\Spring 2018\CIS-308\Project2\WebsterJ_Project2\Debug\Project2.exe
