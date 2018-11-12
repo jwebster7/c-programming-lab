@@ -1,9 +1,0 @@
-﻿  proj2.c
-c:\users\josep\desktop\ksu_coursework\spring 2018\cis-308\project4\websterj_pa4\project4\proj2.c(16): warning C4068: unknown pragma
-c:\users\josep\desktop\ksu_coursework\spring 2018\cis-308\project4\websterj_pa4\project4\proj2.c(34): warning C4047: 'function': 'int' differs in levels of indirection from 'void *'
-c:\users\josep\desktop\ksu_coursework\spring 2018\cis-308\project4\websterj_pa4\project4\proj2.c(34): warning C4024: 'NewNode': different types for formal and actual parameter 1
-  io.c
-  bst.c
-c:\users\josep\desktop\ksu_coursework\spring 2018\cis-308\project4\websterj_pa4\project4\bst.c(45): warning C4047: '==': 'int' differs in levels of indirection from 'void *'
-  Generating Code...
-  Project4.vcxproj -> C:\Users\josep\Desktop\ksu_coursework\Spring 2018\CIS-308\Project4\WebsterJ_PA4\Debug\Project4.exe
